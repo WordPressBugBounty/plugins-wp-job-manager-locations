@@ -1,0 +1,1 @@
+# plugins-wp-job-manager-locations
